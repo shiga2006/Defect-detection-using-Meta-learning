@@ -1,5 +1,7 @@
 3D Printing Defect Detection using Prototypical Networks
+
 👋 Introduction
+
 Have you ever faced issues like warping or layer shifting while using a 3D printer? These kinds of defects are common in Fused Deposition Modeling (FDM), the most widely used 3D printing technique. In this project, we aim to build a smart and efficient system that detects and classifies printing defects in real-time — even when we have very few labeled images to train on!
 
 That’s where Prototypical Networks come into play — a powerful few-shot learning technique that mimics how humans can learn new things from just a few examples.
