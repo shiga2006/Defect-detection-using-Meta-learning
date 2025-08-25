@@ -129,10 +129,10 @@ graph LR
 
 | Metric | Score | Description |
 |--------|-------|-------------|
-| **🎯 Accuracy** | `XX.X%` | Overall correct predictions |
-| **⚡ Speed** | `X.Xs` | Average inference time |
-| **📊 F1-Score** | `X.XX` | Balanced precision & recall |
-| **🔋 Model Size** | `XX MB` | Lightweight deployment |
+| **🎯 Accuracy** | `98%` | Overall correct predictions |
+| **⚡ Speed** | `0.4s` | Average inference time |
+| **📊 F1-Score** | `98.17` | Balanced precision & recall |
+| **🔋 Model Size** | `13 MB` | Lightweight deployment |
 
 </div>
 
@@ -318,11 +318,6 @@ We welcome contributions! Here's how you can help:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgments
 
