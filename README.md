@@ -9,7 +9,7 @@
 
 **Smart defect detection for 3D printed parts using minimal training data** 🚀
 
-[📖 Read the Blog](https://dev.to/shiga2006/defect-detection-in-fff-3d-printing-using-meta-learning-prototypical-networks-33h3) • [🔬 View Demo](#) • [📊 Dataset](#dataset)
+[📖 Read the Blog](https://dev.to/shiga2006/defect-detection-in-fff-3d-printing-using-meta-learning-prototypical-networks-33h3)  • [📊 Dataset](#dataset)
 
 </div>
 
