@@ -333,7 +333,6 @@ We welcome contributions! Here's how you can help:
 
 Made with ❤️ for the 3D printing community
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/3d-defect-detection?style=social)](https://github.com/yourusername/3d-defect-detection)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/3d-defect-detection?style=social)](https://github.com/yourusername/3d-defect-detection/fork)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/3d-defect-detection?style=social)](https://github.com/shiga2006/Defect-detection-using-Meta-learning)
 
 </div>
