@@ -311,8 +311,7 @@ We welcome contributions! Here's how you can help:
 <div align="center">
 
 [![Blog](https://img.shields.io/badge/📖-Read%20Detailed%20Blog-blue?style=for-the-badge)](https://dev.to/shiga2006/defect-detection-in-fff-3d-printing-using-meta-learning-prototypical-networks-33h3)
-[![Paper](https://img.shields.io/badge/📄-Research%20Paper-green?style=for-the-badge)](#)
-[![Demo](https://img.shields.io/badge/🎥-Live%20Demo-red?style=for-the-badge)](#)
+[![Paper](https://img.shields.io/badge/📄-Research%20Paper-green?style=for-the-badge)] - soon
 
 </div>
 
